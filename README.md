@@ -8,14 +8,14 @@ This repository contains a collection of backend projects built using **Kotlin**
 
 ## 📁 Subprojects
 
-### 1. [📦 `pet_tracker_api`](./pet_tracker_api/READ_ME.md)
+### 1. [📦 `pet-tracker-api`](./pet-tracker-api/READ_ME.md)
 A simple backend service to manage pet profiles and track their activities.  
 Features include:
 - Pet CRUD APIs
 - Owner–Pet relationships
 - Basic health tracking
 
-➡️ View its documentation: [`pet_tracker_api/READ_ME.md`](./pet_tracker_api/READ_ME.md)
+➡️ View its documentation: [`pet-tracker-api/READ_ME.md`](./pet-tracker-api/READ_ME.md)
 
 ---
 
