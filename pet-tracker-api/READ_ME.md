@@ -96,27 +96,3 @@ curl -X DELETE http://localhost:8080/pets/1
 ```
 
 ---
-
-## 🧠 What You’ll Learn
-
-- REST API fundamentals
-- Spring Boot project layering
-- Proper use of HTTP methods & status codes
-- Clean architecture for backend services
-- Kotlin DSL project structure
-
----
-
-## 🧼 Future Improvements (for Week 2+)
-
-- Add authentication using Spring Security 🔐
-- Switch to a real database (PostgreSQL or MongoDB) 💾
-- Add Swagger/OpenAPI for documentation 📘
-- Add unit + integration tests 🧪
-
----
-
-## 👤 Author
-
-**Mohamed Farith**  
-Backend Mastery Journey 🚀
